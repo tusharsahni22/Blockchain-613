@@ -1,0 +1,14 @@
+{
+  "name": "event-triggers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-event.js",
+  "scripts": {
+    "start": "node get-event.js"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.5.1"
+  }
+}
